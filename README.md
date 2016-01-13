@@ -3,7 +3,7 @@ The demo app Achievements uses interactive notifications to interact with the us
 Both UIView animation and Facebook POP animations is demonstrated in the demo.
 
 When the app launches, a short demo description tells the user what to do.
-When the user quits the demo, an interactive notifications pops up, 
+When the user quits the demo, an interactive notification pops up, 
 and the user have to drag on the top handle to reveal two buttons.
 ![ssh1](https://cloud.githubusercontent.com/assets/3294527/12290163/7d22dc16-b9e0-11e5-9e2e-e12af9988535.png)
 
