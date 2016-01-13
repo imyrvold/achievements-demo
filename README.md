@@ -19,5 +19,5 @@ The buttons slowly fades in using Facebook POP animation.
 
 When the user clicks the YES button, the green circle grows from nothing to reveal the text and Thanks button, 
 also using Facebook POP animation.
-When the user clicks the Thanks button, the green circle shrinks to nothing, and the Yes button slides down to the button, all using Facebook POP animations.
+When the user clicks the Thanks button, the green circle shrinks to nothing, and the Yes button slides down to the bottom, all using Facebook POP animations.
 ![ssh4](https://cloud.githubusercontent.com/assets/3294527/12290162/7d2035f6-b9e0-11e5-88c2-1f84571706d6.png)
