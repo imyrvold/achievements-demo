@@ -8,7 +8,7 @@ and the user have to drag on the top handle to reveal two buttons.
 ![ssh1](https://cloud.githubusercontent.com/assets/3294527/12290163/7d22dc16-b9e0-11e5-9e2e-e12af9988535.png)
 
 If the user chooses to make an achievement goal for today, he will click
-on the goal button, and this launches the app again to give him a chance to type a goal.
+on the  set goal button, and this launches the app again to give him a chance to type a goal.
 The text slowly fades in using UIView animation.
 ![ssh2](https://cloud.githubusercontent.com/assets/3294527/12290165/7d281082-b9e0-11e5-9f11-6135f45ee04e.png)
 
